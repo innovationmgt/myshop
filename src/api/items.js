@@ -2,7 +2,7 @@ export default [
     {
       id: 1,
       title: 'LEGO Star Wars 75250 Pasaana Speeder Chase Vehicle Building Kit (373 Pieces)',
-      price: 154.84,
+      price: 58.40,
       category: 'Toys',
     },
     {
