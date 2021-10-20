@@ -7,14 +7,14 @@ export default [
     },
     {
       id: 2,
-      title: 'Sonic Adventure',
-      price: 25,
+      title: 'LEGO Star Wars 75271 Luke Skywalker's Landspeeder Building Kit (236 Pieces)',
+      price: 86.90,
       category: 'Toys',
     },
     {
       id: 3,
-      title: 'Soul Calibur',
-      price: 30,
+      title: 'LEGO 75288 Star Wars TM AT-AT™',
+      price: 237.90,
       category: 'Toys',
     },
   ];
